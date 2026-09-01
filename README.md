@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/Gundekari-Srinidhi/AUGUST-2026/tree/master/0610-triangle-judgement) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gundekari-Srinidhi/AUGUST-2026/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
 | ------- |
